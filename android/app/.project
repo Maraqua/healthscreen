@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>app</name>
+	<comment>Project app created by Buildship.</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> feature/feature-healthcare
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+<<<<<<< HEAD
+>>>>>>> feature/feature-healthcare
+=======
+>>>>>>> feature/feature-healthcare
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+
+
+
+		<nature>org.eclipse.jdt.core.javanature</nature>
+feature/feature-healthcare
+		<nature>org.eclipse.jdt.core.javanature</nature>
+feature/feature-healthcare
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+	</natures>
+</projectDescription>
